@@ -1,0 +1,15 @@
+Set(varGithub,"https://github.com/topness-msft/Mixed-Reality/raw/master/");
+Collect(ModelData,
+{Image:"images/bakery.png",Model:"/models/bakery.glb",Source:"https://sketchfab.com/alban"},
+{Image:"images/chinatownlion.png",Model:"/models/chinatownlion.glb",Source:"https://sketchfab.com/alban"},
+{Image:"images/fireplug.png",Model:"/models/fireplug.glb",Source:"https://sketchfab.com/alban"},
+{Image:"images/flatiron.png",Model:"/models/flatiron.glb",Source:"https://sketchfab.com/alban"},
+{Image:"images/liberty.png",Model:"/models/liberty.glb",Source:"https://sketchfab.com/Crafteri"},
+{Image:"images/manhole3.png",Model:"/models/manhole3.glb",Source:"https://sketchfab.com/james"},
+{Image:"images/payphone.png",Model:"/models/payphone.glb",Source:"https://sketchfab.com/alban"},
+{Image:"images/subwaybench.png",Model:"/models/subwaybench.glb",Source:"https://sketchfab.com/alban"},
+{Image:"images/subwaycar.png",Model:"/models/subwaycar.glb",Source:"https://sketchfab.com/subink"},
+{Image:"images/subwayturnstile.png",Model:"/models/subwayturnstile.glb",Source:"https://sketchfab.com/gunnarcorrea"},
+{Image:"images/taxicop.png",Model:"/models/taxicop.glb",Source:"https://sketchfab.com/jeandiz"},
+{Image:"images/wallstbull.png",Model:"/models/wallstbull.glb",Source:"https://sketchfab.com/alban"}
+)
